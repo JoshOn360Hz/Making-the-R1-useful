@@ -2,6 +2,21 @@
 
 I am not responsible for what you do to your device, if you brick it or damage it all liability is on you , unlocking your bootloader voids the rabbit R1's warrenty so proceed at your own risk
 
+---
+
+## Screenshots
+
+### App Drawer
+![App Drawer](img/apps.png)
+
+### Gemini Assistant
+![Gemini Assistant](img/gemini.png)
+
+### Home Screen
+![Home Screen](img/home.png)
+
+---
+
 ## Prerequisites
 
 - Unlocked bootloader via [R1 Escape](https://github.com/RabbitHoleEscapeR1/r1_escape) **or** Rabbit's official *Developer Mode*
