@@ -6,14 +6,11 @@ I am not responsible for what you do to your device, if you brick it or damage i
 
 ## Screenshots
 
-### App Drawer
-![App Drawer](img/apps.png)
-
-### Gemini Assistant
-![Gemini Assistant](img/gemini.png)
-
-### Home Screen
-![Home Screen](img/home.png)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="img/apps.png" alt="App Drawer" width="150"/>
+  <img src="img/gemini.png" alt="Gemini Assistant" width="150"/>
+  <img src="img/home.png" alt="Home Screen" width="150"/>
+</div>
 
 ---
 
