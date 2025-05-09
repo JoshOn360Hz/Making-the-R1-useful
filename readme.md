@@ -1,6 +1,6 @@
 ### DISCLAIMER
 
-I am not responsible for what you do to your device, if you brick it or damage it all liability is on you , unlocking your bootloader voids the rabbit R1's warrenty so proceed at your own risk
+I am not responsible for what you do to your device, if you brick it or damage it all liability is on you , unlocking your bootloader [voids the rabbit R1's warrenty so proceed at your own risk](https://www.rabbit.tech/support/article/unlock-bootloader-rabbit-r1?srsltid=AfmBOooyXSU5d_z7SYVEGrZlLelYWU1RjnWxfNm0oj9LTcUd3CiYJMYW)
 
 ---
 
@@ -16,7 +16,7 @@ I am not responsible for what you do to your device, if you brick it or damage i
 
 ## Prerequisites
 
-- Unlocked bootloader via [R1 Escape](https://github.com/RabbitHoleEscapeR1/r1_escape) **or** Rabbit's official *Developer Mode*
+- Unlocked bootloader via [R1 Escape](https://github.com/RabbitHoleEscapeR1/r1_escape) **or** [Rabbit's official Developer Mode](https://www.rabbit.tech/support/article/unlock-bootloader-rabbit-r1?srsltid=AfmBOooyXSU5d_z7SYVEGrZlLelYWU1RjnWxfNm0oj9LTcUd3CiYJMYW)
 - Android ROM for Rabbit R1 — [CipherOS (Android 15 based)](https://cipheros.org.in/devices/r1)
 - ADB and Fastboot installed and working [Download from Google](https://developer.android.com/tools/releases/platform-tools)
 
@@ -92,8 +92,8 @@ Install the following:
 ### Lawnchair Setup:
 - Icon size: **140%**
 - Grid: **4x5**
-- Fill dock with: `Apple Music`, `Chrome`, `Camera`, `Settings`
-- Add the **default clock widget** to the home screen
+- Fill dock with: `Apple Music`, `Chrome`, `Camera`, `Settings` or whichever apps you want
+- Add the **default clock widget** to the home screen 
 
 ---
 
