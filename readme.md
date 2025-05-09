@@ -17,7 +17,7 @@ I am not responsible for what you do to your device, if you brick it or damage i
 ## Prerequisites
 
 - Unlocked bootloader via [R1 Escape](https://github.com/RabbitHoleEscapeR1/r1_escape) **or** [Rabbit's official Developer Mode](https://www.rabbit.tech/support/article/unlock-bootloader-rabbit-r1?srsltid=AfmBOooyXSU5d_z7SYVEGrZlLelYWU1RjnWxfNm0oj9LTcUd3CiYJMYW)
-- Android ROM for Rabbit R1 — [CipherOS (Android 15 based)](https://cipheros.org.in/devices/r1)
+- Android ROM for Rabbit R1 — [CipherOS (Android 15 based)](https://cipheros.org.in/devices/r1) or any other you would like to use
 - ADB and Fastboot installed and working [Download from Google](https://developer.android.com/tools/releases/platform-tools)
 
 ---
