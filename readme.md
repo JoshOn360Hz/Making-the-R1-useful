@@ -7,9 +7,9 @@ I am not responsible for what you do to your device, if you brick it or damage i
 ## Screenshots
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="img/apps.png" alt="App Drawer" width="150"/>
-  <img src="img/gemini.png" alt="Gemini Assistant" width="150"/>
-  <img src="img/home.png" alt="Home Screen" width="150"/>
+  <img src="img/home.png" alt="Home Screen" width="250"/>
+  <img src="img/apps.png" alt="App Drawer" width="250"/>
+  <img src="img/gemini.png" alt="Gemini Assistant" width="250"/>
 </div>
 
 ---
