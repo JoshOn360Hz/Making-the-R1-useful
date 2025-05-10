@@ -24,7 +24,7 @@ I am not responsible for what you do to your device, if you brick it or damage i
 
 ## Flashing the ROM
 
-1. Follow the instructions on the R1 Escape GitHub page to unlock the bootloader.
+1. Follow the instructions on the R1 Escape GitHub page to unlock the bootloader or use rabbit developer mode to unlock bootloader.
 2. Once the bootloader is unlocked, boot into fastboot mode:
    ```bash
    adb reboot bootloader
