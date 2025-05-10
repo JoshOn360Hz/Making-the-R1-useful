@@ -136,7 +136,7 @@ This emulates the Rabbit R1's AI button.
 - open terminal and cd to the directory you have the patched boot img in
 - run this command to enter fastboot
 ```bash
-adb  reboot bootloader
+adb reboot bootloader
 ```
 - run this command to flash patched boot img :
 ```bash
