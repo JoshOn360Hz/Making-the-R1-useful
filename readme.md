@@ -89,10 +89,11 @@ Install the following:
 - [Lawnicons](https://lawnchair.app/)  
 - [Lawnicons](https://lawnchair.app/)   
 
-## If you choose to root:
+If you choose to root:
 
 - [QuickSwitch](https://github.com/skittles9823/QuickSwitch)
 - Optional but cool [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_GB)
+
 ### Lawnchair Setup:
 - Icon size: **140%**
 - Grid: **4x5**
