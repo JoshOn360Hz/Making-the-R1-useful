@@ -89,6 +89,10 @@ Install the following:
 - [Lawnicons](https://lawnchair.app/)  
 - [Lawnicons](https://lawnchair.app/)   
 
+## If you choose to root:
+
+- [QuickSwitch](https://github.com/skittles9823/QuickSwitch)
+- Optional but cool [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_GB)
 ### Lawnchair Setup:
 - Icon size: **140%**
 - Grid: **4x5**
@@ -129,7 +133,11 @@ This emulates the Rabbit R1's AI button.
 - select the boot.img you transfered and continue
 - a new boot image with "magisk" in the name will be created, go back to the R1's internal storage on your pc and copy it on to the computer
 - open terminal and cd to the directory you have the patched boot img in
-- run this command :
+- run this command to enter fastboot
+```bash
+adb  reboot bootloader
+```
+- run this command to flash patched boot img :
 ```bash
 fastboot flash boot_a "patched boot img name here" 
 ```
@@ -140,3 +148,9 @@ fastboot flash boot_a "patched boot img name here"
 ### If something goes wrong
 - if you hard brick you can flash back to stock using rabbits tool [here](https://rabbit-hmi-oss.github.io/flashing/)
 - if you soft brick and can get in to recovery / fastboot you can reflash the OS using the commands above
+
+### Notes
+
+- I have not been able to get Play Integrety to pass other than basic integrety (custom props and magiskhide + other modules) , some apps including ChatGPT will refuse to work due to this, possibly due to bootloader unlock or rom choice.
+
+- Bluetooth audio can be temperamental on some headphones, I have had issues with Airpods Pro 2 ( USB-C ).
